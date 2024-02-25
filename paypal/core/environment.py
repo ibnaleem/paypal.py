@@ -4,7 +4,6 @@
 @description: PayPal environment class to store the client id, client secret, api url and web url of the environment to which the access token is to be sent to.
 """
 
-
 import base64
 from paypalhttp import Environment
 
